@@ -1,2 +1,27 @@
 Link para download do Git:https://git-scm.com/downloads
 O Git Bach é um terminal extendido para otimizar o uso do Git.
+
+Comandos basicos do Git
+
+git config. ...
+git init. ...
+git clone. ...
+git add. ...
+git commit. ...
+git branch. ...
+git checkout.
+
+A primeira coisa que você deve fazer quando instalar o Git é definir o seu nome de usuário e endereço de e-mail. Isso é importante porque todos os commits no Git utilizam essas informações, e está imutavelmente anexado nos commits que você realiza:
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+Alguns comandos basicos
+
+git add.
+git status.
+git diff.
+git commit.
+git reset.
+git rm.
+git mv.
